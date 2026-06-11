@@ -27,3 +27,9 @@ governança, segurança e código customizado.
 Nome: Nicolas Linares
 Curso: Pós-Graduação em Desenvolvimento Full Stack
 Instituição: FAEX
+cat >> README.md <<'EOF'
+## Histórico de organização
+Este portfólio foi organizado na aula final da disciplina para consolidar os trabalhos
+desenvolvidos ao longo do curso.
+## Status
+Em construção.
