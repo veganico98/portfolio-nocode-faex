@@ -33,3 +33,8 @@ Este portfólio foi organizado na aula final da disciplina para consolidar os tr
 desenvolvidos ao longo do curso.
 ## Status
 Em construção.
+## Histórico de organização
+Este portfólio foi organizado na aula final da disciplina para consolidar os trabalhos
+desenvolvidos ao longo do curso.
+## Status
+Em construção.
